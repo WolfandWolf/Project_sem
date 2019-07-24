@@ -1,0 +1,20 @@
+﻿  Kursach.cpp
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(240,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(279,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(521,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(523,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(876,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(990,10): warning C4477:  'printf' : format string '%10.2lf' requires an argument of type 'double', but variadic argument 6 has type 'int'
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(1026,10): warning C4477:  'printf' : format string '%10.2lf' requires an argument of type 'double', but variadic argument 6 has type 'int'
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(1092,10): warning C4477:  'printf' : format string '%10.2lf' requires an argument of type 'double', but variadic argument 6 has type 'int'
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(1274,11): warning C4477:  'printf' : format string '%10.2lf' requires an argument of type 'double', but variadic argument 6 has type 'int'
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(1335,11): warning C4477:  'printf' : format string '%10.2lf' requires an argument of type 'double', but variadic argument 6 has type 'int'
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(1396,11): warning C4477:  'printf' : format string '%10.2lf' requires an argument of type 'double', but variadic argument 6 has type 'int'
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(1464,11): warning C4477:  'printf' : format string '%10.2lf' requires an argument of type 'double', but variadic argument 6 has type 'int'
+  Generating code
+C:\Users\Anton\source\repos\Kursach\Kursach\Kursach.cpp(512): warning C4715: 'enter_user': not all control paths return a value
+  2 of 41 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Kursach.vcxproj -> C:\Users\Anton\source\repos\Kursach\Release\Kursach.exe
